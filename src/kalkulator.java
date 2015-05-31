@@ -66,7 +66,7 @@ public class kalkulator {
 		
 		textFieldangka2 = new JTextField();
 		textFieldangka2.setBounds(243, 53, 111, 29);
-		frame.getContentPane().add(textFieldangka2);
+//		frame.getContentPane().add(textFieldangka2);
 		textFieldangka2.setColumns(10);
 		
 		JButton btnTambah = new JButton("tambah");
